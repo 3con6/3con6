@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**3con6/3con6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 A passionate developer always eager to learn and grow.
+- 🚀 Currently exploring the amazing world of web and backend development.
+- 💡 Love to build, innovate, and contribute to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+### 🌐 Frontend Development
+- **Languages:** HTML5, CSS, JavaScript
+- **Frameworks & Libraries:** Next.js
+
+### 🔗 Backend Development
+- **Languages:** Python, JavaScript (Node.js)
+- **Tools & Frameworks:** Node.js
+
+### 🛠 Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+## 🌟 What I’m Working On
+- 📚 Enhancing my knowledge in full-stack development.
+- 🤝 Collaborating on open-source projects.
+- 🌐 Building responsive and dynamic web applications.
+
+## 📫 Let’s Connect
+- **GitHub:** [[Github](https://github.com/3con6/)]
+
+Thanks for stopping by! 😊
